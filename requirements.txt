@@ -1,0 +1,6 @@
+matplotlib
+pandas
+streamlit
+streamlit-extras
+ipykernel
+beautifulsoup4
